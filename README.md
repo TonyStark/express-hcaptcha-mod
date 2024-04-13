@@ -1,4 +1,4 @@
-# express-hcaptcha
+# express-hcaptcha-mod
 
 Source:https://github.com/vastus/express-hcaptcha
 Since that repo is old, and need some changes so i have added some improvement
