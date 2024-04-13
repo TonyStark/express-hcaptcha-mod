@@ -1,0 +1,19 @@
+{
+  "name": "express-hcaptcha-mod",
+  "version": "1.0.0",
+  "description": "A light middleware for Express.js to verify the hCaptcha token",
+  "main": "index.js",
+  "keywords": [
+    "hcaptcha",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hcaptcha": "0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyStark/express-hcaptcha-mod.git"
+  }
+}
